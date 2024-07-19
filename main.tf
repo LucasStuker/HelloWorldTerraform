@@ -19,6 +19,6 @@ resource "aws_instance" "app_server" {
   key_name ="iac-curso2"
 
   tags = {
-    Name = "ExampleAppServerInstance"
+    Name = "Terraform Ansivle Python"
   }
 }
